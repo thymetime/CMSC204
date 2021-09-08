@@ -1,2 +1,2 @@
 # CMSC204
-CMSC204 files and assignments
+Created for CMSC204 files and assignments
